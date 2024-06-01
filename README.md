@@ -30,4 +30,6 @@ I'm an AI Engineer with a passion for exploring the fascinating world of artific
 
 I love tinkering with new gadgets and exploring the latest trends in technology. When I'm not coding, you can find me experimenting with DIY electronics projects or reading up on the latest AI research.
 
+This is my Blog: https://ltnhotin.github.io/
+
 Thanks for stopping by! 😊
